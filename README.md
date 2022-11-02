@@ -39,7 +39,7 @@ Throughout the week, Citi Bikes are much more popular amongst male riders than f
 <img width="1034" alt="Trips x Gender x Weekday" src="https://user-images.githubusercontent.com/100387078/172029596-ea2986c1-ef90-46d7-bfec-7f4cf0462f20.png">
 
 
-## Summary
+# Summary
 Citi Bike rides are usually short and most frequent during rush hour on weekdays. Males are much more likely to ride Citi Bikes than females.
 
 Future analysis could include:
